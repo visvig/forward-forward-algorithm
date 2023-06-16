@@ -1,6 +1,6 @@
 # Forward-Forward Algorithm Implementation
 
-This repository contains the Jupyter notebook for the implementation of Geoffrey Hinton's Forward-Forward Algorithm. MNIST fully connected The code is based on the work of Mohammad Pezeshki. The original code can be found [here](https://github.com/mohammadpz/pytorch_forward_forward).
+This repository contains the Jupyter notebook for the implementation of Geoffrey Hinton's Forward-Forward Algorithm. Fully connected network implementation on MNIST is based on the work of Mohammad Pezeshki. The original code can be found [here](https://github.com/mohammadpz/pytorch_forward_forward).
 
 ## Introduction
 
