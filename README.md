@@ -1,6 +1,6 @@
 # Forward-Forward Algorithm Implementation
 
-This repository contains the Jupyter notebook for the implementation of Geoffrey Hinton's Forward-Forward Algorithm applied on the MNIST dataset. The code is based on the work of Mohammad Pezeshki. The original code can be found [here](https://github.com/mohammadpz/pytorch_forward_forward).
+This repository contains the Jupyter notebook for the implementation of Geoffrey Hinton's Forward-Forward Algorithm. MNIST fully connected The code is based on the work of Mohammad Pezeshki. The original code can be found [here](https://github.com/mohammadpz/pytorch_forward_forward).
 
 ## Introduction
 
@@ -20,7 +20,7 @@ The Jupyter notebook `ff-mnist-fully-connected.ipynb` consists of the following 
 - **3. Train the Network**: Training the network on the MNIST dataset.
 - **4. Test the Network**: Testing the network on the test data of the MNIST dataset.
 
-The Jupyter notebook `ff-cifar10-convnet.ipynb` is under work
+The Jupyter notebook `ff-cifar10-convnet.ipynb` is under work!
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ The data for training and testing is automatically downloaded using torchvision'
 
 ## Running the Code
 
-To run the notebook, start Jupyter Notebook in the repository directory, and then open the `ff-mnist.ipynb` file.
+To run the notebook, start Jupyter Notebook in the repository directory, and then open the `ff-mnist-fully-connected.ipynb` or `ff-cifar10-convnet.ipynb` file.
 
 ## Contributions
 
