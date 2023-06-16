@@ -20,6 +20,8 @@ The Jupyter notebook `ff-mnist.ipynb` consists of the following sections:
 - **3. Train the Network**: Training the network on the MNIST dataset.
 - **4. Test the Network**: Testing the network on the test data of the MNIST dataset.
 
+The Jupyter notebook `ff-cifar10-convnet.ipynb` is under work
+
 ## Getting Started
 
 To run this code, you will need:
