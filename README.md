@@ -8,7 +8,7 @@ The Forward-Forward Algorithm offers an alternative approach to training neural 
 
 ## Repository Contents
 
-The Jupyter notebook `ff-mnist.ipynb` consists of the following sections:
+The Jupyter notebook `ff-mnist-fully-connected.ipynb` consists of the following sections:
 
 - **A. Function to Generate Negative Labels**: A helper function to generate negative labels for the training samples.
 - **B. Function to Overlay Label onto Input Data**: A helper function to overlay the labels onto the input data.
