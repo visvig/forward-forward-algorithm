@@ -20,7 +20,7 @@ The Jupyter notebook `ff-mnist-fully-connected.ipynb` consists of the following 
 - **3. Train the Network**: Training the network on the MNIST dataset.
 - **4. Test the Network**: Testing the network on the test data of the MNIST dataset.
 
-The Jupyter notebook `ff-cifar10-convnet.ipynb` is under work!
+The Jupyter notebook `ff-cifar10-convnet.ipynb` is under work! Feel free to contribute.
 
 ## Getting Started
 
@@ -37,7 +37,7 @@ To run the notebook, start Jupyter Notebook in the repository directory, and the
 
 ## Contributions
 
-Feel free to submit issues and enhancement requests.
+Feel free to submit issues and enhancement requests. currently `ff-cifar10-convnet.ipynb` is under work.
 
 ## Acknowledgements
 
